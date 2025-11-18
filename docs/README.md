@@ -52,6 +52,10 @@ Detailed processes and templates are available in this folder:
 - `octoacme-retrospective-and-continuous-improvement.md`
 - `octoacme-roles-and-personas.md`
 - `octoacme-risks-and-communication.md`
+ - `process-improvements.md`
+ - `templates/release-checklist.md`
+ - `templates/risk-register-template.md`
+ - `templates/pr-checklist.md`
 
 ---
 Created by the OctoAcme playbook — see the individual docs for templates, checklists, and artifacts.
